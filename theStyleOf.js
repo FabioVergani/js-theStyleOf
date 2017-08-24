@@ -7,4 +7,7 @@ function theStyleOf(x){
  };
  return s.join('');
 }
-//console.log(theStyleOf($0));
+//===========================================
+console.clear();
+console.log(theStyleOf($0));
+
